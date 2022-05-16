@@ -1,0 +1,8 @@
+package bajuStore;
+
+public class main {
+	public static void main(String args[]) {
+		new formLogin();
+	}
+
+}
